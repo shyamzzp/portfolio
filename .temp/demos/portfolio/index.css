@@ -18695,7 +18695,7 @@ blockquote:after {
     overflow: hidden;
     width: 100vw;
     height: calc(100vh - 30px);
-    padding-right: 80px;
+    /* padding-right: 80px; */
     -webkit-transition: .55s ease-in-out;
     transition: .55s ease-in-out;
 }
